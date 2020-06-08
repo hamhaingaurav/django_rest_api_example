@@ -1,0 +1,6 @@
+*.pyc
+*migrations
+/env/
+/media/
+/static/
+db.sqlite3
