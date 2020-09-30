@@ -1,6 +1,7 @@
 *.pyc
 *migrations
-/env/
-/media/
-/static/
+env
+media/
+static/
 db.sqlite3
+__pycache__
